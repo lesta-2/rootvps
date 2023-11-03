@@ -14,4 +14,4 @@ apt update && apt install wget -y && wget -qO- -O rootvps.sh https://raw.githubu
 ```
 
 # Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/@Wisanggeni58/)
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/Wisanggeni58/)
